@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sL7VMKvjUfEs7ekgld0icvNxQXdHuZfvsfM6I6jzNaFo1wq++8YcdvWf4chZM50E1at/rfVXG5tpEftX6OHgqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oliver\\OneDrive - University of Plymouth\\Computer Science\\First Year\\COMP 1004 - Computing Practice\\Practise Exercises\\WebDevExercises\\WebDevExercises\\WebDevExercises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oliver\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
