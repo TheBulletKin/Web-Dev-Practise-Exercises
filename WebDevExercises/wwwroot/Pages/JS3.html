@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="../js/JS5.js"></script>
+    <title></title>
+</head>
+<body>
+    <form>
+        Player name<input type="text" id="playerName" /><br />
+        Player colour<input type="color" id="playerColour" /><br />
+        Player health<input type="number" id="playerHealth" /><br />
+        <select>
+            <option value="weaponSword">Sword</option>
+            <option value="weaponGun">Gun</option>
+            <option value="weaponFactsAndLogic">Facts and Logic</option>
+        </select>
+    </form>
+    <button onclick="createPlayer()">Create player</button>
+    <h1>Player Details</h1>
+
+    <p id="playerNameText">Player Name</p>
+    <p id="playerColourDisplay"></p>
+    <p id="playerHealthText">Player Health</p>
+    <p id="playerWeaponText">Player Weapon</p>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+﻿body {
+}
+a:hover{
+    color:orange;
+}
+li a{
+    text-decoration:none;
+    color:red;
+}
+p{
+    background-color:grey;
+}
+div:hover p{
+    color:blue;
+}
+
+
+
+
